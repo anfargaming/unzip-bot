@@ -10,7 +10,7 @@
         "unzipper bot"
     ],
     "website": "https://t.me/EDM115bots",
-    "repository": "https://github.com/EDM115/unzip-bot",
+    "repository": "https://github.com/anfargaming/unzip-bot",
     "success_url": "https://t.me/EDM115bots",
     "env": {
         "APP_ID": {
