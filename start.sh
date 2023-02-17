@@ -1,9 +1,9 @@
 echo "
 🔥 Unzip Bot 🔥
 
-Copyright (c) 2023 EDM115
+Copyright (c) 2023 ANFARMOHD
 
---> Join @EDM115bots
---> Follow EDM115 on Github
+--> Join @BOTXZE
+--> Follow ANFAR on Github
 "
 python3 -m unzipper
